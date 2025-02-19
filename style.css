@@ -3,12 +3,13 @@
   box-sizing: border-box;
 }
 
-body {
+body { background-color: #090707;
   font-family: fantasy, Helvetica, sans-serif;
 }
 
 /* Style the header */
-.header {
+.header { 
+    
   background-color: #090707;
   padding: 30px;
   text-align: center;
@@ -21,9 +22,9 @@ body {
   .column{ padding: 10px;
     height: 300px;}
     .column.side {
-        -webkit-flex: 1;
-        -ms-flex: 1;
-        flex: 1;
+        -webkit-flex: 4;
+        -ms-flex: 4;
+        flex: 4;
      }
      .column.middle {
         -webkit-flex: 2;
