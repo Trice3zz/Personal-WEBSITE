@@ -32,8 +32,8 @@ body { forced-color-adjust: white ;
         -ms-flex: 2;
         flex: 2;
       }
-      .footer {
-        background-color: #faf7f7;
+      .footer { forced-color-adjust: white;
+        background-color: #070606;
         padding: 10px;
         text-align: center;
       }
